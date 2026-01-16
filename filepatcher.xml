@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<extension type="file" version="5.4.2|6.0.2" method="upgrade">
-	<name>File Patcher</name>
+<extension type="file" version="5.4.2" method="upgrade">
+	<name>filepatcher</name>
 	<author>Tom van der Laan - TLWebdesign</author>
 	<creationDate>2026-01</creationDate>
 	<copyright>(C) 2026 TLWebdesign</copyright>
