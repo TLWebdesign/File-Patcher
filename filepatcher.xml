@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="file" version="5.4.2|6.0.2" method="upgrade">
+	<name>File Patcher</name>
+	<author>Tom van der Laan - TLWebdesign</author>
+	<creationDate>2026-01</creationDate>
+	<copyright>(C) 2026 TLWebdesign</copyright>
+	<license>GNU General Public License version 3 or later; see LICENSE.txt</license>
+	<authorEmail>info@tlwebdesign.nl</authorEmail>
+	<authorUrl>www.tlwebdesign.nl</authorUrl>
+	<version>1.0.0</version>
+	<description><![CDATA[This plugin fixes a bug introduced in 5.4.2 and 6.0.2 that will also be fixed in the next release.]]></description>
+	<scriptfile>filepatcher.php</scriptfile>
+</extension>
