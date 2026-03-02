@@ -1,4 +1,4 @@
-# File Patcher for Joomla 5.4.2 / 6.0.2
+# File Patcher for Joomla
 
 ## What is this?
 
