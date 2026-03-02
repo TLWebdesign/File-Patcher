@@ -10,4 +10,7 @@
 	<version>1.0.0</version>
 	<description><![CDATA[This plugin fixes a bug introduced in 5.4.2 and 6.0.2 that will also be fixed in the next release.]]></description>
 	<scriptfile>filepatcher.php</scriptfile>
+	<fileset folder="">
+		<file></file>
+	</fileset>
 </extension>
