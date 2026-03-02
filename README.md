@@ -17,14 +17,12 @@ After a successful run, **no extension remains installed**.
 ## Why does this exist?
 
 This file extension can be used to patch joomla files. It was used before to patch a bug i introduced in Joomla 5.4.2 and 6.0.2
+
 ---
 
 ## Supported Joomla Versions
 
-This patcher **only runs on the following exact Joomla versions**:
-
-- **5.4.2**
-- **6.0.2**
+This patcher **only runs on the Joomla versions specified in the filepatcher.php file**:
 
 If installed on any other Joomla version:
 
